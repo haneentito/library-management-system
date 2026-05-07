@@ -115,13 +115,11 @@ Tables:
 
 ## Screenshots
 
-## Screenshots
-
 ### Login Screen
 ![Login](screenshots/login.png)
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### View Books
 (Add screenshot here)
